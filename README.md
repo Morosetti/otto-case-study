@@ -43,3 +43,7 @@ reminders and recurring checks. This repository holds the case study only.
   do histórico, tarefa recorrente que se multiplicava. / *The real bugs were
   about time: all-day events in UTC, dates copied from history, a recurring
   task that multiplied.*
+
+---
+
+Outro case study: [Milo](https://github.com/Morosetti/milo-case-study) · Another case study: [Milo](https://github.com/Morosetti/milo-case-study)
